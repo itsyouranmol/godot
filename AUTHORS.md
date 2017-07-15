@@ -31,6 +31,7 @@ name is available.
     Alexey Velikiy (jonyrock)
     Alket Rexhepi (alketii)
     Andreas Haas (Hinsbart)
+	Anmol Singh (itsyouranmol)
     Anton Yabchinskiy (a12n)
     Aren Villanueva (kurikaesu)
     Ariel Manzur (punto-)
